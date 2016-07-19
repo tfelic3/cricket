@@ -1,0 +1,13 @@
+img{
+  float: none;
+  margin: 0 auto;
+  display: block;
+  height: 100%;
+  width:100%;
+}
+
+body {
+	margin: 20em 7em 10em;
+}
+
+
